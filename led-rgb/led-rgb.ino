@@ -18,7 +18,6 @@ int blueValue;
 void loop() {
   #define delayTime 10
 
-  return;
   redValue = 255;
   greenValue = 0;
   blueValue = 0;
